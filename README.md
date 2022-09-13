@@ -1,6 +1,10 @@
 Оригинальный репозитарий  
 https://github.com/archimatetool/archi   
 
+Architecture as code : Реализованы почти все спецификации Archimate 3.0.1 (все элементы и взаимосвязи)   
+concept Scala DSL для Archimate   
+https://github.com/gridgentoo/semod   
+
 # Archi - ArchiMate Modelling Editor
 
 Archi® is a free, open source, cross-platform tool and editor to create ArchiMate models.
